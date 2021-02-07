@@ -1,5 +1,5 @@
 # Simple-Linear-Regression-Python
-This project contains implementaion of simple linear regression using :
+This project contains the implementaion of simple linear regression using :
 
 #### Python
 #### Python + Pytorch
